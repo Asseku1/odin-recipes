@@ -7,7 +7,7 @@ It is created with the help of Visual Studio Code (VSCODE) with  use of AI agent
 
 For this project I've used images that include Free to Use and Share License
 
-I've mostly used <ul> and <ol> for the Recipes
+I've mostly used 'ul' and 'ol' for the Recipes
 
 I made sure to add a feature to return to Homepage wit Recipe Indexes  on each Recipe site so the user doesn't have to re enter the site via original link
 
